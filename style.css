@@ -1,15 +1,34 @@
-
-body {
-    text-align: center;
+#contact iframe
+{
+    width: 100%;
 }
 
 .travel_box {
-    border: 1px solid lightcyan;
+    border: 2px solid lightcyan;
 }
 .travel_box img {
     width: 100%;
 }
-
-.travel_box h5, .travel_box p {
+.travel_box h5 , .travel_box p{
     margin: 20px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: yellow;
+}
+
+# RN {
+    height: 50%;
+    width: 50px;
 }
